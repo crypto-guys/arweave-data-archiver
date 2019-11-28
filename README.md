@@ -4,9 +4,11 @@ A shell tool to archive multiple datatypes to arweave
 
 I have more to this but paused my work on it
 
-To DO:
+# To DO:
 
-Fix the bugs then
+1. Fix the bugs 
 
-Add support for batch and automation
+2. Add data validation and sanitation
+
+3. Add support for batch and automation
 
