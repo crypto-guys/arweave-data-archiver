@@ -6,7 +6,7 @@ I have more to this but paused my work on it
 
 To DO:
 
-Fix single files
+Fix the bugs then
 
 Add support for batch and automation
 
